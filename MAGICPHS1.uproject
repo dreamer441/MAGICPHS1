@@ -1,4 +1,4 @@
-﻿{
+{
     "FileVersion":  3,
     "EngineAssociation":  "5.8",
     "Category":  "",
@@ -88,6 +88,14 @@
                     },
                     {
                         "Name":  "FirstPersonInteraction",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "PythonScriptPlugin",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "EditorScriptingUtilities",
                         "Enabled":  true
                     }
                 ]

@@ -1,0 +1,83 @@
+{
+  "version": "0.05",
+  "world_reference_footprint_m": [
+    1000,
+    1000
+  ],
+  "design_rule": "Separate-platform macro layout inspired by v0.01/v0.02. Validate layout first; fill gaps and sculpt terrain later.",
+  "platforms": {
+    "state2_ruins_spawn": {
+      "center_m": [
+        -285,
+        -255
+      ],
+      "size_m": [
+        330,
+        330
+      ],
+      "top_elevation_m": 0.0,
+      "surface_area_m2": 108900,
+      "active_area_share_percent": 25.14,
+      "content": "Rocky combat zone; ruins, arches, 6-8m average pillars, tallest 10-12m."
+    },
+    "state1_forest": {
+      "center_m": [
+        -285,
+        255
+      ],
+      "size_m": [
+        330,
+        330
+      ],
+      "top_elevation_m": 1.0,
+      "surface_area_m2": 108900,
+      "active_area_share_percent": 25.14,
+      "content": "Dense forest; nominal 3m tree spacing, 1-2 small ruins."
+    },
+    "state3_field": {
+      "center_m": [
+        230,
+        -30
+      ],
+      "size_m": [
+        470,
+        370
+      ],
+      "top_elevation_m": 0.5,
+      "surface_area_m2": 173900,
+      "active_area_share_percent": 40.14,
+      "content": "Largest mostly-empty flat testing area with sparse small rocks."
+    },
+    "state4_boss_arena": {
+      "center_m": [
+        275,
+        300
+      ],
+      "diameter_m": 230,
+      "top_elevation_m": 2.5,
+      "surface_area_m2": 41547.56,
+      "active_area_share_percent": 9.59,
+      "content": "Raised circular arena with tall pillar ring; connected only to State 3."
+    }
+  },
+  "ratios": {
+    "requested": {
+      "state2_ruins_spawn": 25,
+      "state1_forest": 25,
+      "state3_field": 40,
+      "state4_boss_arena": 10
+    },
+    "actual_by_platform_surface_area_percent": {
+      "state2_ruins_spawn": 25.14,
+      "state1_forest": 25.14,
+      "state3_field": 40.14,
+      "state4_boss_arena": 9.59
+    }
+  },
+  "connections": [
+    "Ruins <-> Forest",
+    "Ruins <-> Field",
+    "Forest <-> Field",
+    "Field <-> Boss Arena only"
+  ]
+}
