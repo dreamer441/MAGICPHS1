@@ -1,0 +1,14 @@
+# Unreal generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Visual Studio generated
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.sln
+*.slnx
