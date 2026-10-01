@@ -1,0 +1,173 @@
+{
+  "kit": "RuinsPillarKit_v002",
+  "blender_version": "5.2.2 LTS",
+  "units": "meters",
+  "asset_count": 16,
+  "notes": [
+    "Thicker multi-layer bases/capitals.",
+    "Broken tops revised toward snapped vertical slices.",
+    "Same family/style as v001, with only targeted geometry fixes."
+  ],
+  "assets": [
+    {
+      "name": "SM_RuinPillar_Intact_6m_A",
+      "dimensions_m": [
+        1.922,
+        1.922,
+        7.21
+      ],
+      "vertices": 2018,
+      "polygons": 1868
+    },
+    {
+      "name": "SM_RuinPillar_Intact_8m_A",
+      "dimensions_m": [
+        2.232,
+        2.232,
+        9.21
+      ],
+      "vertices": 2018,
+      "polygons": 1868
+    },
+    {
+      "name": "SM_RuinPillar_Hero_10m_A",
+      "dimensions_m": [
+        2.728,
+        2.728,
+        11.21
+      ],
+      "vertices": 2018,
+      "polygons": 1868
+    },
+    {
+      "name": "SM_RuinPillar_Hero_12m_A",
+      "dimensions_m": [
+        3.038,
+        3.038,
+        13.21
+      ],
+      "vertices": 2018,
+      "polygons": 1868
+    },
+    {
+      "name": "SM_RuinPillar_BrokenTop_6m_A",
+      "dimensions_m": [
+        2.108,
+        2.108,
+        6.874
+      ],
+      "vertices": 1562,
+      "polygons": 1464
+    },
+    {
+      "name": "SM_RuinPillar_BrokenTop_7m_B",
+      "dimensions_m": [
+        2.294,
+        2.294,
+        7.972
+      ],
+      "vertices": 1562,
+      "polygons": 1464
+    },
+    {
+      "name": "SM_RuinPillar_BrokenTop_9m_A",
+      "dimensions_m": [
+        2.666,
+        2.666,
+        9.766
+      ],
+      "vertices": 1562,
+      "polygons": 1464
+    },
+    {
+      "name": "SM_RuinPillar_Stump_3m_A",
+      "dimensions_m": [
+        2.356,
+        2.356,
+        3.665
+      ],
+      "vertices": 1562,
+      "polygons": 1464
+    },
+    {
+      "name": "SM_RuinColumn_Drum_3m_A",
+      "dimensions_m": [
+        1.541,
+        1.541,
+        2.992
+      ],
+      "vertices": 626,
+      "polygons": 626
+    },
+    {
+      "name": "SM_RuinColumn_Drum_5m_A",
+      "dimensions_m": [
+        1.755,
+        1.755,
+        4.996
+      ],
+      "vertices": 626,
+      "polygons": 626
+    },
+    {
+      "name": "SM_RuinColumn_Drum_6m_B",
+      "dimensions_m": [
+        1.926,
+        1.926,
+        5.99
+      ],
+      "vertices": 626,
+      "polygons": 626
+    },
+    {
+      "name": "SM_RuinShard_Large_A",
+      "dimensions_m": [
+        5.074,
+        3.327,
+        2.53
+      ],
+      "vertices": 118,
+      "polygons": 149
+    },
+    {
+      "name": "SM_RuinShard_Large_B",
+      "dimensions_m": [
+        5.524,
+        2.69,
+        3.585
+      ],
+      "vertices": 129,
+      "polygons": 155
+    },
+    {
+      "name": "SM_RuinShard_Medium_A",
+      "dimensions_m": [
+        2.937,
+        2.059,
+        1.921
+      ],
+      "vertices": 127,
+      "polygons": 158
+    },
+    {
+      "name": "SM_RuinShard_Medium_B",
+      "dimensions_m": [
+        3.301,
+        1.753,
+        2.255
+      ],
+      "vertices": 121,
+      "polygons": 146
+    },
+    {
+      "name": "SM_RuinShard_Small_A",
+      "dimensions_m": [
+        1.561,
+        1.249,
+        1.022
+      ],
+      "vertices": 129,
+      "polygons": 167
+    }
+  ]
+}

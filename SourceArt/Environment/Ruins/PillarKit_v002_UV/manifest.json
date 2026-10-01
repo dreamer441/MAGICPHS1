@@ -1,0 +1,119 @@
+{
+  "source": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002\\RuinsPillarKit_v002.blend",
+  "output": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV",
+  "asset_count": 16,
+  "assets": [
+    {
+      "name": "SM_RuinColumn_Drum_3m_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinColumn_Drum_3m_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinColumn_Drum_5m_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinColumn_Drum_5m_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinColumn_Drum_6m_B",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinColumn_Drum_6m_B.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinPillar_BrokenTop_6m_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinPillar_BrokenTop_6m_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinPillar_BrokenTop_7m_B",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinPillar_BrokenTop_7m_B.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinPillar_BrokenTop_9m_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinPillar_BrokenTop_9m_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinPillar_Hero_10m_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinPillar_Hero_10m_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinPillar_Hero_12m_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinPillar_Hero_12m_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinPillar_Intact_6m_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinPillar_Intact_6m_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinPillar_Intact_8m_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinPillar_Intact_8m_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinPillar_Stump_3m_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinPillar_Stump_3m_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinShard_Large_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinShard_Large_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinShard_Large_B",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinShard_Large_B.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinShard_Medium_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinShard_Medium_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinShard_Medium_B",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinShard_Medium_B.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    {
+      "name": "SM_RuinShard_Small_A",
+      "fbx": "D:\\UNREALPHS1MAGIC\\MAGICPHS1\\SourceArt\\Environment\\Ruins\\PillarKit_v002_UV\\FBX\\SM_RuinShard_Small_A.fbx",
+      "uv_layers": [
+        "UVMap"
+      ]
+    }
+  ]
+}
