@@ -5,10 +5,22 @@ Intermediate/
 Saved/
 .vs/
 
-# Visual Studio generated
-*.VC.db
-*.opensdf
-*.sdf
-*.suo
+# Plugin generated
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Visual Studio
 *.sln
-*.slnx
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Logs / migration temporary data
+*.log
+V016_BUILD_LOG.txt
+MigrationBackups/
+
+# OS files
+Thumbs.db
+Desktop.ini
