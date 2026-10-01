@@ -1,0 +1,18 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.14.0",
+  "FriendlyName": "Spell Graph",
+  "Description": "Semantic Rune Canvas graph model and compiler from Codex concepts into the existing spell-definition pipeline.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Modules": [
+    { "Name": "SpellGraph", "Type": "Runtime", "LoadingPhase": "Default" }
+  ],
+  "Plugins": [
+    { "Name": "SpellCreation", "Enabled": true },
+    { "Name": "WorldCodex", "Enabled": true }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "checkpoint": "v0.16.8-stable",
+  "commit": "241edfba8a3fce64b2e73c01fa1a404206c36334",
+  "goal": "exact gameplay migration; no gameplay code rewrite",
+  "old_project_default": "D:\\TESTUNREALPROJECT",
+  "new_project_default": "D:\\UNREALPHS1MAGIC\\MAGICPHS1",
+  "included_plugins": [
+    "MaterialCore",
+    "PhysicalBody",
+    "ImpactSystem",
+    "EarthFoundation",
+    "EarthMagic",
+    "LiveSpellCasting",
+    "SpellCreation",
+    "SpellExecution",
+    "SpellPreview",
+    "SpellCastingBindings",
+    "SpellMotion",
+    "SpellPattern",
+    "SpellLoadout",
+    "PlayerViewModes",
+    "WorldCodex",
+    "SpellGraph",
+    "InnerRealm",
+    "FirstPersonInteraction"
+  ],
+  "excluded_content": [
+    "Content/LevelPrototyping",
+    "Content/__ExternalActors__",
+    "Content/__ExternalObjects__",
+    "old maps and landscapes",
+    "marketplace environment/character assets"
+  ]
+}

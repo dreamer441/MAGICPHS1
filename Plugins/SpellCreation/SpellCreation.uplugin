@@ -1,0 +1,22 @@
+{
+  "FileVersion": 3,
+  "Version": 4,
+  "VersionName": "0.11.0",
+  "FriendlyName": "Spell Creation",
+  "Description": "Pure stored spell-definition module. Presentation and runtime execution are separate modules.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Modules": [
+    {
+      "Name": "SpellCreation",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    { "Name": "MaterialCore", "Enabled": true },
+    { "Name": "PhysicalBody", "Enabled": true }
+  ]
+}

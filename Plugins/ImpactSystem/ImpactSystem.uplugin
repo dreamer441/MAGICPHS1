@@ -1,0 +1,28 @@
+{
+  "FileVersion": 3,
+  "Version": 8,
+  "VersionName": "0.5.0",
+  "FriendlyName": "Impact System",
+  "Description": "Generic contact, energy, material-damage, structural-response and momentum-transfer solvers.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Modules": [
+    {
+      "Name": "ImpactSystem",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "MaterialCore",
+      "Enabled": true
+    },
+    {
+      "Name": "PhysicalBody",
+      "Enabled": true
+    }
+  ]
+}

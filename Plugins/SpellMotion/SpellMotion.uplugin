@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.13.5",
+  "FriendlyName": "Spell Motion",
+  "Description": "Generic movement-direction resolution for resolved spell instances. Independent from shape orientation and elemental realization.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Modules": [
+    { "Name": "SpellMotion", "Type": "Runtime", "LoadingPhase": "Default" }
+  ],
+  "Plugins": [
+    { "Name": "SpellCreation", "Enabled": true }
+  ]
+}

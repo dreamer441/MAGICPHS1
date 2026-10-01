@@ -1,0 +1,14 @@
+{
+  "FileVersion": 3,
+  "Version": 2,
+  "VersionName": "0.13.5",
+  "FriendlyName": "World Codex",
+  "Description": "Canonical world vocabulary, signs, tiers, capabilities, relationships, and developer-facing codex data.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Modules": [
+    { "Name": "WorldCodex", "Type": "Runtime", "LoadingPhase": "Default" }
+  ]
+}

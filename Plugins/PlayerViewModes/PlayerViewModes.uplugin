@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 16,
+  "VersionName": "0.16.0",
+  "FriendlyName": "Player Gameplay Modes",
+  "Description": "Four clean gameplay-mode nodes: first person, third person, top-down and free-roam. Arrow keys transition between modes; top-down preserves the existing live-casting contract.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "EnabledByDefault": true,
+  "IsBetaVersion": true,
+  "Modules": [
+    { "Name": "PlayerViewModes", "Type": "Runtime", "LoadingPhase": "Default" }
+  ],
+  "Plugins": [
+    { "Name": "InnerRealm", "Enabled": true },
+    { "Name": "SpellCastingBindings", "Enabled": true }
+  ]
+}

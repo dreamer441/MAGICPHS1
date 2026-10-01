@@ -1,0 +1,18 @@
+{
+  "FileVersion": 3,
+  "Version": 4,
+  "VersionName": "0.5.0",
+  "FriendlyName": "Material Core",
+  "Description": "Generic material property contracts only.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Modules": [
+    {
+      "Name": "MaterialCore",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

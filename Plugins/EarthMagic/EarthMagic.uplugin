@@ -1,0 +1,40 @@
+{
+  "FileVersion": 3,
+  "Version": 4,
+  "VersionName": "0.11.0",
+  "FriendlyName": "Earth Magic",
+  "Description": "Runtime Earth-body realization. Converts resolved spell data into stable physical bodies and feeds impacts through ImpactSystem.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Modules": [
+    {
+      "Name": "EarthMagic",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "MaterialCore",
+      "Enabled": true
+    },
+    {
+      "Name": "PhysicalBody",
+      "Enabled": true
+    },
+    {
+      "Name": "ImpactSystem",
+      "Enabled": true
+    },
+    {
+      "Name": "EarthFoundation",
+      "Enabled": true
+    },
+    {
+      "Name": "SpellCreation",
+      "Enabled": true
+    }
+  ]
+}

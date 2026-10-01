@@ -1,0 +1,29 @@
+﻿EXACT V0.16.8 GAMEPLAY RESTORE
+Tag:    v0.16.8-stable
+Commit: 241edfba8a3fce64b2e73c01fa1a404206c36334
+
+Tracked plugin source: Git commit above
+Untracked four-state source: copied byte-for-byte from old working project
+
+LOCAL FOUR-STATE SOURCE SHA256:
+9A7A6FF5EB763FB1EC48A94568E79D51B846A414B966120547E3563B207CB572  PlayerViewModes\Public\Core\PlayerGameplayModeNode.h
+C06ED687A3F941DE5FBDB1F4CA7DBEF56A75FA5B194A28DB0F023BB018CD42AF  PlayerViewModes\Public\Core\PlayerGameplayModeTypes.h
+68E5F79C579B473127DD7D09FACD6EAC808002691683B94E0607FA41C40694AB  PlayerViewModes\Private\Modes\FirstPerson\FirstPersonModeNode.h
+A9B509B0BDD3F786226F68613ED432FE7DFE9B5986D922861F90CC1FF538A517  PlayerViewModes\Private\Modes\FirstPerson\FirstPersonModeNode.cpp
+76B70419516DA197DB73EE8EE6B3F24F347F0B183AA66B82E536B64B50A835ED  PlayerViewModes\Private\Modes\ThirdPerson\ThirdPersonModeNode.h
+769BC2FFEE21529F35D9E14FC019BF4863DE5F1E9077CE40CA5F6CF0D0DB83FF  PlayerViewModes\Private\Modes\ThirdPerson\ThirdPersonModeNode.cpp
+DFA7B87BD78E5970D8169CA4C75D21EE4B36D8C1F55221887A78D6E2B1CDF358  PlayerViewModes\Private\Modes\TopDown\TopDownModeNode.h
+39870F9FEB0E993F68D3957886E149462CFC7A2C182253C522FA7955A5A5FC06  PlayerViewModes\Private\Modes\TopDown\TopDownModeNode.cpp
+902011403B868409B0746CAF135E29D2D30D26E3D650DCE0A99402E66CEA2117  PlayerViewModes\Private\Modes\FreeRoam\FreeRoamModeNode.h
+B261F4BE582B1F77E310EA7076276355FDDFB7C6FF1D516A877CCD9C4439CA51  PlayerViewModes\Private\Modes\FreeRoam\FreeRoamModeNode.cpp
+
+EXCLUDED:
+LevelPrototyping
+__ExternalActors__
+__ExternalObjects__
+old maps
+landscapes
+environment packs
+Echo/imported characters
+marketplace/external plugins
+experimental Phase1Gameplay rewrite

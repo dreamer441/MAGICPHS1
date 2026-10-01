@@ -1,0 +1,14 @@
+# Unreal generated data
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.sln
+*.slnx
+
+# Keep source/config/content/project files

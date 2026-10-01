@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.5.0",
+  "FriendlyName": "Physical Body",
+  "Description": "Generic physical-body state contracts: mass, volume, velocity and contact size. No impact or material response logic.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Modules": [
+    { "Name": "PhysicalBody", "Type": "Runtime", "LoadingPhase": "Default" }
+  ],
+  "Plugins": [
+    { "Name": "MaterialCore", "Enabled": true }
+  ]
+}

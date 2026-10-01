@@ -1,0 +1,27 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "First Person Interaction",
+  "Description": "State-1 embodiment foundation: independent hand motion and Codex-backed world examination.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "EnabledByDefault": true,
+  "IsBetaVersion": true,
+  "Modules": [
+    {
+      "Name": "FirstPersonInteraction",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    { "Name": "PlayerViewModes", "Enabled": true },
+    { "Name": "WorldCodex", "Enabled": true },
+    { "Name": "EarthMagic", "Enabled": true },
+    { "Name": "EarthFoundation", "Enabled": true },
+    { "Name": "MaterialCore", "Enabled": true },
+    { "Name": "SpellCreation", "Enabled": true }
+  ]
+}

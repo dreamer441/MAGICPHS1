@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "Phase 1 Gameplay Foundation",
+  "Description": "Asset-free clean reconstruction of the v0.16 four-state gameplay foundation.",
+  "Category": "Gameplay",
+  "CreatedBy": "ProjectX",
+  "CanContainContent": false,
+  "EnabledByDefault": true,
+  "IsBetaVersion": true,
+  "Modules": [
+    {
+      "Name": "Phase1Gameplay",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
